@@ -42,7 +42,7 @@ Agents can integrate directly via the API, enabling autonomous governance partic
 - **API**: https://pump-dao-agent.onrender.com
 - **GitHub (UI)**: https://github.com/LithiumEinsteinium/Pump-Dao-UI
 - **GitHub (API)**: https://github.com/LithiumEinsteinium/Pump-Dao-Agent
-- **Skill**: https://github.com/LithiumEinsteinium/pump-dao-skill
+- **Skill**: https://github.com/LithiumEinsteinium/Pump-Dao-Skill
 
 ---
 
